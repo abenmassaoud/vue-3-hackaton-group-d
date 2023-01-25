@@ -7,7 +7,6 @@
     </el-header>
     <el-main>
       <div class="questions">
-        {{ JSON.stringify(givenAnswers) }}
         <div
           v-for="question in questions"
           v-bind:key="question.id"
