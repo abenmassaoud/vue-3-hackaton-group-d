@@ -12,7 +12,7 @@
           v-for="question in questions"
           v-bind:key="question.id"
         >
-            {{ givenAnswer(question)?.answer ? `You answered "givenAnswer(question)?.answer"` : 'Not answered' }}
+            {{ givenAnswer(question) ? `You answered "${givenAnswer(question)?.answer}"` : 'Not answered' }}
             <QuestionCard :question="question" @on-answer="onAnswer" />
         </div>
       </div>
@@ -32,9 +32,9 @@ export default {
     const questions = await fetchQuestions(10);
     const givenAnswers = ref([])
     function onAnswer(answer) {
-      givenAnswer.value.push(answer)
+      givenAnswers.value.push(answer)
     }
-    const givenAnswer = (question) => givenAnswers.value.find(givenAnswer => question.id === givenAnswer.is)
+    const givenAnswer = (question) => givenAnswers.value.find(givenAnswer => question.id === givenAnswer.id)
     return { questions, onAnswer, givenAnswers, givenAnswer };
   },
 };
