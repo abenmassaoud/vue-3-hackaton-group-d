@@ -9,9 +9,8 @@
       <div class="questions">
         <div
           v-for="question in questions"
-          v-bind:key="question.id"
+          :key="question.id"
         >
-            {{ givenAnswer(question) ? `You answered "${givenAnswer(question)?.answer}"` : 'Not answered' }}
             <QuestionCard :question="question" @on-answer="onAnswer" />
         </div>
       </div>

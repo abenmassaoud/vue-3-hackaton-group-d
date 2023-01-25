@@ -1,29 +1,33 @@
 <template>
   <el-card class="box-card">
+    <p><b>{{ status }}</b></p>
     <template #header>
       <div class="card-header">
         <p>{{ props.question.question }}</p>
       </div>
     </template>
     <div
-      :key="index"
-      class="card-answer"
-      v-for="(answer, index) in props.question.allAnswers"
-    >
+        :key="index"
+        class="card-answer"
+        v-for="(answer, index) in props.question.allAnswers"
+    ><label>
       <input
-        type="radio"
-        :id="index"
-        :value="answer"
-        v-model="selectedAnswer"
-        @click="onAnswer"
+          type="radio"
+          :id="id + '-' + index"
+          :value="answer"
+          v-model="selectedAnswer"
+          @click="onAnswer"
       />
-      <label :for="index">{{ answer }}</label>
+      {{ answer }}</label>
     </div>
   </el-card>
 </template>
 
 <script setup>
-import { ref, defineProps, defineEmits } from "vue";
+import {ref, defineProps, defineEmits, computed } from "vue";
+import {v4 as uuidv4} from 'uuid';
+
+const id = uuidv4();
 
 const props = defineProps({
   question: {
@@ -31,6 +35,8 @@ const props = defineProps({
     required: true,
   },
 });
+
+const status = computed(() => selectedAnswer.value ? `You answered ${selectedAnswer.value}` : 'Not answered')
 
 const emit = defineEmits(["on-answer"]);
 
@@ -63,6 +69,7 @@ const onAnswer = () => {
 .box-card {
   width: 480px;
 }
+
 .card-answer {
   cursor: pointer;
 }
