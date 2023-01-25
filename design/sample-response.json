@@ -1,0 +1,964 @@
+[
+  {
+    "category": "Sport & Leisure",
+    "id": "622a1c367cc59eab6f95033b",
+    "correctAnswer": "Althea Gibson",
+    "incorrectAnswers": [
+      "Venus Williams",
+      "Serena Williams",
+      "Maureen Dalyweather"
+    ],
+    "question": "Who was the first African-American female to win a Wimbledon Tennis event?",
+    "tags": [
+      "firsts",
+      "tennis",
+      "people",
+      "sport"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Film & TV",
+    "id": "622a1c367cc59eab6f9501df",
+    "correctAnswer": "Francis Ford Coppola",
+    "incorrectAnswers": [
+      "Steven Spielberg",
+      "Woody Allen",
+      "Martin Scorsese"
+    ],
+    "question": "Which director directed The Godfather?",
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f95163f",
+    "correctAnswer": "Hand",
+    "incorrectAnswers": [
+      "Foot",
+      "Swarm",
+      "Flock"
+    ],
+    "question": "What is the name for a cluster or bunch of bananas?",
+    "tags": [
+      "food",
+      "words",
+      "general_knowledge",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Music",
+    "id": "636a52ae990390307063f3b4",
+    "correctAnswer": "The Top Notes",
+    "incorrectAnswers": [
+      "Bob Marley and The Wailers",
+      "William Shatner",
+      "Gary Jules and Michael Andrews"
+    ],
+    "question": "The song 'Twist and Shout' had a well-known cover by The Beatles, but who recorded the original?",
+    "tags": [
+      "music",
+      "cover_song",
+      "songs",
+      "musicians"
+    ],
+    "type": "Multiple Choice",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Arts & Literature",
+    "id": "622a1c367cc59eab6f9501cd",
+    "correctAnswer": "Anne of Green Gables",
+    "incorrectAnswers": [
+      "The Glass Bead Game",
+      "Heidi",
+      "The Boy in the Striped Pyjamas"
+    ],
+    "question": "Which piece of written work starts with the line 'Mrs. Rachel Lynde lived just where the Avonlea main road dipped down into a little hollow, fringed with alders and ladies' eardrops and traversed by a brook that had its source away back in the woods of the old Cuthbert place;'?",
+    "tags": [
+      "literature",
+      "arts_and_literature"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Society & Culture",
+    "id": "622a1c3c7cc59eab6f9517c2",
+    "correctAnswer": "Apple Bobbing",
+    "incorrectAnswers": [
+      "Trick or Treating",
+      "Jack o' Lanterns",
+      "Wearing Scary Outfits"
+    ],
+    "question": "Which Halloween tradition originated from a custom to establish who would get married first?",
+    "tags": [
+      "halloween",
+      "traditions",
+      "society_and_culture"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f9502b7",
+    "correctAnswer": "Honey ",
+    "incorrectAnswers": [
+      "Almond",
+      "Grape",
+      "Potato"
+    ],
+    "question": "What Is the Main Ingredient Of The Liquor Mead? ",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Music",
+    "id": "622a1c387cc59eab6f950b07",
+    "correctAnswer": "Take That",
+    "incorrectAnswers": [
+      "Talk Talk",
+      "Feeder",
+      "Bring Me the Horizon"
+    ],
+    "question": "Which band includes 'Robbie Williams'?",
+    "tags": [
+      "music"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Society & Culture",
+    "id": "622a1c3a7cc59eab6f9511c3",
+    "correctAnswer": "Stigmata",
+    "incorrectAnswers": [
+      "Holy Molies",
+      "Psalms",
+      "Anaschsim"
+    ],
+    "question": "Which word refers to the appearance of wounds in places that correspond to the crucifixion wounds of Christ?",
+    "tags": [
+      "words",
+      "society_and_culture",
+      "christianity",
+      "religion"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "History",
+    "id": "622a1c367cc59eab6f950338",
+    "correctAnswer": "Constantine",
+    "incorrectAnswers": [
+      "Justinian",
+      "Claudius",
+      "Julius"
+    ],
+    "question": "Who Was The First Christian Emperor Of Rome?",
+    "tags": [
+      "christianity",
+      "romans",
+      "history"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Geography",
+    "id": "6233860d62eaad73716a8cad",
+    "correctAnswer": "Venezuela",
+    "incorrectAnswers": [
+      "Canada",
+      "Zimbabwe",
+      "Australia"
+    ],
+    "question": "Where is Angel Falls?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "History",
+    "id": "639ae36d929b90846f2fc8d0",
+    "correctAnswer": "Maize",
+    "incorrectAnswers": [
+      "Rice",
+      "Wheat",
+      "Barley"
+    ],
+    "question": "What type of food was the most important staple of the Aztec diet?",
+    "tags": [
+      "history",
+      "aztecs",
+      "food"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "History",
+    "id": "62611fd14b176d54800e3d73",
+    "correctAnswer": "1955",
+    "incorrectAnswers": [
+      "1947",
+      "1963",
+      "1971"
+    ],
+    "question": "In which year did Rosa Parks refuse to give up her seat in protest of racial inequality?",
+    "tags": [
+      "events",
+      "civil_rights",
+      "usa",
+      "history"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c604a50d1a5e051325a50",
+    "correctAnswer": "Kabuli Pulao",
+    "incorrectAnswers": [
+      "Frikadeller",
+      "Ema Datshi",
+      "Masala Dosa"
+    ],
+    "question": "Which of these dishes would you most expect to find in Afghanistan?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Society & Culture",
+    "id": "622a1c357cc59eab6f94fcb3",
+    "correctAnswer": "Indo-European",
+    "incorrectAnswers": [
+      "Koreanic",
+      "Sino-Tibetan",
+      "Austronesian"
+    ],
+    "question": "The language 'Sinhalese' belongs to which language family?",
+    "tags": [
+      "language",
+      "society_and_culture"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Science",
+    "id": "622a1c377cc59eab6f9504ea",
+    "correctAnswer": "nematodes",
+    "incorrectAnswers": [
+      "Japanese people",
+      "earthquakes",
+      "the relationship of organisms to each other and to their environment"
+    ],
+    "question": "What is Nematology the study of?",
+    "tags": [
+      "science"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Sport & Leisure",
+    "id": "622a1c367cc59eab6f95006a",
+    "correctAnswer": "Evander Holyfield",
+    "incorrectAnswers": [
+      "Mike Tyson",
+      "Oscar De La Hoya",
+      "Floyd Mayweather"
+    ],
+    "question": "Which Heavweight Boxer Was Known As The Real Deal?",
+    "tags": [
+      "boxing",
+      "people",
+      "sport"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Society & Culture",
+    "id": "6293ec6f7f41d6338b96eef0",
+    "correctAnswer": "Joseph Lister",
+    "incorrectAnswers": [
+      "Michael Faraday",
+      "Benny Russell",
+      "Franz Jacob"
+    ],
+    "question": "Which surgeon pioneered the use of sterilisation and antiseptic surgery?",
+    "tags": [
+      "people",
+      "history",
+      "society_and_culture",
+      "medicine"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Society & Culture",
+    "id": "6262886b4b176d54800e3d9b",
+    "correctAnswer": "Budweiser",
+    "incorrectAnswers": [
+      "Guinness",
+      "Stella Artois",
+      "Corona"
+    ],
+    "question": "Which beer brand is associated with the marketing slogan 'King of Beers'?",
+    "tags": [
+      "business",
+      "marketing",
+      "drink",
+      "society_and_culture"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Music",
+    "id": "622a1c387cc59eab6f950b89",
+    "correctAnswer": "The Jimi Hendrix Experience",
+    "incorrectAnswers": [
+      "Poison",
+      "The Pussycat Dolls",
+      "Three 6 Mafia"
+    ],
+    "question": "Which English-American psychedelic rock band released the song 'Purple Haze'?",
+    "tags": [
+      "music"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "History",
+    "id": "622a1c3c7cc59eab6f951b3c",
+    "correctAnswer": "1945",
+    "incorrectAnswers": [
+      "1938",
+      "1940",
+      "1943"
+    ],
+    "question": "In what year of WW II did Russia declare war on Japan?",
+    "tags": [
+      "world_war_2",
+      "russia",
+      "japan",
+      "wars",
+      "history"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Geography",
+    "id": "622a1c387cc59eab6f950868",
+    "correctAnswer": "Guinea",
+    "incorrectAnswers": [
+      "Guinea-Bissau",
+      "Ivory Coast",
+      "The Gambia"
+    ],
+    "question": "Which of these countries borders Sierra Leone?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f9502b0",
+    "correctAnswer": "Rice ",
+    "incorrectAnswers": [
+      "Spinach",
+      "Paneer",
+      "Basa"
+    ],
+    "question": "What Is The Principle Ingredient Of Biryani?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Arts & Literature",
+    "id": "622a1c397cc59eab6f950f76",
+    "correctAnswer": "Stephen King",
+    "incorrectAnswers": [
+      "H. P. Lovecraft",
+      "Edgar Allan Poe",
+      "Jack Vance"
+    ],
+    "question": "Which author wrote 'Nightmares & Dreamscapes'?",
+    "tags": [
+      "arts_and_literature"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Science",
+    "id": "622a1c377cc59eab6f9504e5",
+    "correctAnswer": "numbers",
+    "incorrectAnswers": [
+      "wounds and injuries caused by accidents or assaults and their surgical treatment and repair",
+      "psychotropic or psychiatric drugs",
+      "Egyptian hieroglyphics, an ancient writing system"
+    ],
+    "question": "What is Numerology the study of?",
+    "tags": [
+      "science"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Music",
+    "id": "622a1c397cc59eab6f950c8b",
+    "correctAnswer": "Metallica",
+    "incorrectAnswers": [
+      "Alice Cooper",
+      "The Pussycat Dolls",
+      "Three 6 Mafia"
+    ],
+    "question": "Which American heavy metal band released the studio album 'Master of Puppets'?",
+    "tags": [
+      "music"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Music",
+    "id": "622a1c357cc59eab6f94ffd1",
+    "correctAnswer": "The Rolling Stones",
+    "incorrectAnswers": [
+      "Black",
+      "Sticky Fingers",
+      "Brown Sugar"
+    ],
+    "question": "What was the title of the first album released by The Rolling Stones?",
+    "tags": [
+      "music_albums",
+      "music"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "History",
+    "id": "622a1c367cc59eab6f95035d",
+    "correctAnswer": "William The Conqueror",
+    "incorrectAnswers": [
+      "Henry VIII",
+      "Victoria",
+      "Albert the Great"
+    ],
+    "question": "Who was crowned King of England at Westminster Abbey on Christmas day 1066?",
+    "tags": [
+      "history"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Society & Culture",
+    "id": "6357fd1168bd5000211e7179",
+    "correctAnswer": "Portuguese",
+    "incorrectAnswers": [
+      "Hindi",
+      "Berber",
+      "Gujarati"
+    ],
+    "question": "Which of these languages would you find spoken in Angola?",
+    "tags": [
+      "language",
+      "linguistics",
+      "society_and_culture"
+    ],
+    "type": "Multiple Choice",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Arts & Literature",
+    "id": "622a1c367cc59eab6f95018a",
+    "correctAnswer": "Tarzan",
+    "incorrectAnswers": [
+      "Spiderman",
+      "Scooby Doo",
+      "Buggs Bunny"
+    ],
+    "question": "What famous character did Edgar Rice Burroughs create?",
+    "tags": [
+      "arts_and_literature"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Science",
+    "id": "62443734746187c5e7be933b",
+    "correctAnswer": "It is used as an ingredient in baking.",
+    "incorrectAnswers": [
+      "It is used in liquid fertilizers, potassium soaps and detergents.",
+      "It is used in laundry detergent.",
+      "It is used to relieve pain."
+    ],
+    "question": "What is the chemical sodium bicarbonate often used for?",
+    "tags": [
+      "science"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Film & TV",
+    "id": "622a1c347cc59eab6f94fbf9",
+    "correctAnswer": "\"Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.\"",
+    "incorrectAnswers": [
+      "\"Louis, I think this is the beginning of a beautiful friendship.\"",
+      "\"That’s my secret, Captain: I’m always angry.\"",
+      "\"Oh, Jerry, don't let's ask for the moon. We have the stars.\""
+    ],
+    "question": "Which of these quotes is from the film 'King Kong'?",
+    "tags": [
+      "quotes",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Film & TV",
+    "id": "622a1c377cc59eab6f9507a2",
+    "correctAnswer": "Julia Roberts",
+    "incorrectAnswers": [
+      "Meryl Streep",
+      "Sandra Bullock",
+      "Anne Hathaway"
+    ],
+    "question": "Which actor has featured in films including Erin Brockovich and Ocean's Eleven?",
+    "tags": [
+      "acting",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Film & TV",
+    "id": "625740499da29df7b05f73d2",
+    "correctAnswer": "An old man travels in his house equipped with balloons, inadvertently taking a young stowaway.",
+    "incorrectAnswers": [
+      "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat.",
+      "In the future, a small waste-collecting robot inadvertently embarks on a space journey.",
+      "A man deeply immersed in the Edinburgh drug scene tries to clean up and get out."
+    ],
+    "question": "What is the plot of the movie Up?",
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Music",
+    "id": "622a1c387cc59eab6f950b88",
+    "correctAnswer": "Eagles",
+    "incorrectAnswers": [
+      "The Pussycat Dolls",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "question": "Which band includes 'Don Henley'?",
+    "tags": [
+      "music"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Arts & Literature",
+    "id": "622a1c397cc59eab6f950f5b",
+    "correctAnswer": "Isaac Asimov",
+    "incorrectAnswers": [
+      "Ursula K. Le Guin",
+      "Philip K. Dick",
+      "Stephen King"
+    ],
+    "question": "Which author wrote 'Foundation and Empire'?",
+    "tags": [
+      "arts_and_literature"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Sport & Leisure",
+    "id": "622a1c347cc59eab6f94f8a0",
+    "correctAnswer": "Boxing",
+    "incorrectAnswers": [
+      "Cricket",
+      "Rugby Union",
+      "Ice Hockey"
+    ],
+    "question": "With which sport is Manny Pacquiao associated?",
+    "tags": [
+      "people",
+      "general_knowledge",
+      "sport"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Science",
+    "id": "622a1c3a7cc59eab6f950fd6",
+    "correctAnswer": "Jellyfish",
+    "incorrectAnswers": [
+      "Squid",
+      "Shark",
+      "Whale"
+    ],
+    "question": "Which type of animal are the Sea Wasp and Cubozoa?",
+    "tags": [
+      "science"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "History",
+    "id": "622a1c3c7cc59eab6f95185f",
+    "correctAnswer": "Robben Island",
+    "incorrectAnswers": [
+      "Bishop Island",
+      "Truncheon Island",
+      "Carril Island"
+    ],
+    "question": "Where was Nelson Mandela held in prison?",
+    "tags": [
+      "africa",
+      "people",
+      "islands",
+      "history"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Science",
+    "id": "622a1c3a7cc59eab6f951026",
+    "correctAnswer": "Entomology",
+    "incorrectAnswers": [
+      "Botany",
+      "Zoology",
+      "Horticulture"
+    ],
+    "question": "What Is The Study Of Insects Called? ",
+    "tags": [
+      "words",
+      "animals",
+      "biology",
+      "science"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Music",
+    "id": "622a1c397cc59eab6f950c7e",
+    "correctAnswer": "U2",
+    "incorrectAnswers": [
+      "Public Image Ltd.",
+      "The Script",
+      "The Cure"
+    ],
+    "question": "Which Irish rock band released the studio album 'All That You Can't Leave Behind'?",
+    "tags": [
+      "music"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Arts & Literature",
+    "id": "622a1c367cc59eab6f950148",
+    "correctAnswer": "Ernest Hemmingway",
+    "incorrectAnswers": [
+      "Joseph Conrad",
+      "Anthony Burgess",
+      "George Orwell"
+    ],
+    "question": "Whose first collection of short stories entitled \"In Our Time\" was published in 1925?",
+    "tags": [
+      "literature",
+      "arts_and_literature"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c6176badf21197f98f77e",
+    "correctAnswer": "Pepperpot",
+    "incorrectAnswers": [
+      "Plov",
+      "Cou Cou and Flying Fish",
+      "Shawarma"
+    ],
+    "question": "Which of these dishes would you most expect to find in Guyana?",
+    "tags": [
+      "food",
+      "south_america",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f95163e",
+    "correctAnswer": "Green",
+    "incorrectAnswers": [
+      "Blue",
+      "Yellow",
+      "Red"
+    ],
+    "question": " What colour is creme de menthe?",
+    "tags": [
+      "drink",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Music",
+    "id": "622a1c397cc59eab6f950c9e",
+    "correctAnswer": "The Rolling Stones",
+    "incorrectAnswers": [
+      "McFly",
+      "Delirious?",
+      "Depeche Mode"
+    ],
+    "question": "Which English rock band released the album 'Exile on Main St.'?",
+    "tags": [
+      "music"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Arts & Literature",
+    "id": "622a1c347cc59eab6f94f975",
+    "correctAnswer": "The Stranger",
+    "incorrectAnswers": [
+      "One Hundred Years of Solitude",
+      "The Trial",
+      "The Quiet American"
+    ],
+    "question": "Which book contains the character 'Meursault'?",
+    "tags": [
+      "film",
+      "fictitious_characters",
+      "arts_and_literature"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Science",
+    "id": "622a1c377cc59eab6f950566",
+    "correctAnswer": "demons",
+    "incorrectAnswers": [
+      "the study and design of machines at the molecular level",
+      "the causes and treatment of allergies; a branch of medicine",
+      "organic particles, such as bacteria, fungal spores, very small insects and pollen"
+    ],
+    "question": "What is Demonology the study of?",
+    "tags": [
+      "words",
+      "science"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Music",
+    "id": "622a1c357cc59eab6f94fd81",
+    "correctAnswer": "Irving Berlin",
+    "incorrectAnswers": [
+      "Stephen Sondheim",
+      "Andrew Lloyd Webber",
+      "George Gershwin"
+    ],
+    "question": "Who Wrote The Musical \"There's No Business Like Show Business\"?",
+    "tags": [
+      "musicals",
+      "theater",
+      "music"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Film & TV",
+    "id": "622a1c347cc59eab6f94fa98",
+    "correctAnswer": "Penélope Cruz",
+    "incorrectAnswers": [
+      "Amy Adams",
+      "Viola Davis",
+      "Taraji P. Henson"
+    ],
+    "question": "Who won the 2008 Academy Award for Best Supporting Actress for playing the role of Maria Elena in Vicky Cristina Barcelona?",
+    "tags": [
+      "academy_awards",
+      "film",
+      "acting",
+      "film_and_tv"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "Science",
+    "id": "622a1c377cc59eab6f950597",
+    "correctAnswer": "crayfish",
+    "incorrectAnswers": [
+      "is concerned with earth materials that can be utilized for economic and/or industrial purposes",
+      "same as Aetiology",
+      "the laws and phenomena of aqueous vapors"
+    ],
+    "question": "What is Astacology the study of?",
+    "tags": [
+      "science"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  }
+]
