@@ -73,4 +73,8 @@ const onAnswer = () => {
 .card-answer {
   cursor: pointer;
 }
+
+p {
+  
+}
 </style>
